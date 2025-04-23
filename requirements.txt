@@ -1,0 +1,6 @@
+json5==0.9.25
+numpy==2.0.1
+pandas==2.2.2
+streamlit==1.39.0
+requests==2.32.3
+
